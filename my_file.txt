@@ -1,0 +1,3 @@
+Appending some additional lines.
+Another line with some data.
+The final line of this example.
